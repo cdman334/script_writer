@@ -1,1 +1,1 @@
-# script_wrtier
+# script_writer
